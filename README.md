@@ -1,3 +1,5 @@
+Deployed via Openshift / RHC: http://letort-artwaresolutions.rhcloud.com/
+
 # WordPress on OpenShift #
 
 WordPress is an open source, semantic, blogging and content management 
